@@ -36,8 +36,10 @@ I’m currently exploring Flutter for web and mobile development, integrating Fi
 
 ## 📫 Let's Connect
 Reach out to me directly through any of the following platforms:
-<a href="https://www.linkedin.com/in/muhammad-fakhir" target="_blank">
+
+<a href="https://www.linkedin.com/in/muhammad-fakhir-a34828238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    
 </a>
 <a href="mailto:Fakhirjalees9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
