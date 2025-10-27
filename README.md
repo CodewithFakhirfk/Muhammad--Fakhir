@@ -9,6 +9,7 @@
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%" loop=infinite alt="Coding Animation">
 </div>
 ## 👨‍💻 About Me
+
 I'm a Full-Stack Developer in training with a growing passion for building scalable, high-performance web and mobile applications using Flutter, Firebase, and modern frontend frameworks. I’m focused on learning how to design and develop clean, efficient, and user-centric solutions that bring ideas to life.
 I’m currently exploring Flutter for web and mobile development, integrating Firebase for backend services, authentication, and real-time databases. My goal is to master both the frontend and backend aspects of development to create seamless, end-to-end digital experiences.
 
